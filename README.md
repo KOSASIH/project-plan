@@ -20,3 +20,5 @@ It works on desktop too, where you can use Coda's building blocks to fully custo
 #A few of the 25,000+ teams that 🏃‍♀️ on Coda.
 
 Coda is an all-in-one doc for your team’s unique processes — the rituals that help you succeed. Teams that use Coda get rid of hundreds of documents, spreadsheets, and even bespoke apps, to work quickly and clearly in one place. This template is a Coda doc. Click around to explore.
+
+[Connect with a rituals architects](https://coda.io/contact-sales-rituals-architect?utm_medium=generated_doc&utm_campaign=contact_sales_pub_doc_202108&utm_source=coda&utm_doc_id=Fy6XhIRkV8) 
