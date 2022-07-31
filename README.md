@@ -12,7 +12,7 @@ It works on desktop too, where you can use Coda's building blocks to fully custo
 * Add more sections for written documentation
 
 # Get Started
-* Open Notes to write notes about the project
+* Open [Notes](https://coda.io/d/_d5xvrFKvH-R/Notes_sunmd) to write notes about the project
 * Open Tasks to add tasks
 * Open Categories to customize task categories
 ---
