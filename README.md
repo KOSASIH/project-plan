@@ -13,6 +13,6 @@ It works on desktop too, where you can use Coda's building blocks to fully custo
 
 # Get Started
 * Open [Notes](https://coda.io/d/_d5xvrFKvH-R/Notes_sunmd) to write notes about the project
-* Open Tasks to add tasks
+* Open [Tasks](https://coda.io/d/_d5xvrFKvH-R/Tasks_suNdk) to add tasks
 * Open Categories to customize task categories
 ---
